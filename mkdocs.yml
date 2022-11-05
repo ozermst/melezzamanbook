@@ -3,12 +3,14 @@ site_url:
 nav:
   - Anasayfa: "index.md"
   - Melez Zaman - Kitap:
-    - "Melez Zaman": "book/melez_zaman.md"
-    - "Sıcak Para": "book/sicak_para.md"
-    - "Kapalı Çarşı": "book/kapali_carsi.md"
-    - "Ah Minelaşk": "book/ah_minelask.md"
-    - "Çeşitleme": "book/cesitleme.md"
-    - "Bir Varmış Bir Yokmuş": "book/bir_varmis_bir_yokmus.md"
-    - "Sabahı Soruyoruz": "book/sabahi_soruyoruz.md"
+    - "Melez Zaman": "kitap/melez_zaman.md"
+    - "Sıcak Para": "kitap/sicak_para.md"
+    - "Kapalı Çarşı": "kitap/kapali_carsi.md"
+    - "Ah Minelaşk": "kitap/ah_minelask.md"
+    - "Çeşitleme": "kitap/cesitleme.md"
+    - "Bir Varmış Bir Yokmuş": "kitap/bir_varmis_bir_yokmus.md"
+    - "Sabahı Soruyoruz": "kitap/sabahi_soruyoruz.md"
 
-theme: readthedocs
+theme: 
+  name: readthedocs
+  locale: tr
