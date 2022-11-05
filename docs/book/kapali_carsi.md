@@ -1,6 +1,6 @@
 # KAPALI ÇARŞI
 
-## GAZEL
+## Gazel
 
 Bize uygun düşüyor denizi soyutlamak<br>
 Nitekim tohumları gemi gibi batırdık
@@ -23,14 +23,14 @@ Kalbimiz karşıysa da yetinmeye yatkınız<br>
 Boşuna arar mıyız şarabın dengesini<br>
 Kuşkusuz hüznümüzü paylaşmaya çağırdık
 
-## RUBAİ
+## Rubai
 
 Geceyi ipe serme, bil ki yarın başkayız<br>
 Durağan imgelere saplanıp kalamayız<br>
 Kolay sayılmasa da hasmane birliğimiz<br>
 Bizden bize kanayan görkemli bir yarayız
 
-## GECE KASİDESİ
+## Gece Kasidesi
 
 Koyun dostlar şu plağı geceye<br>
 Herkesin dileğince çalınsın türküler
